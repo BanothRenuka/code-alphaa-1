@@ -1,0 +1,13 @@
+{
+  "name": "iot-smart-agriculture-backend",
+  "version": "1.0.0",
+  "description": "IoT Smart Agriculture Research Report PDF Generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdfkit": "^0.15.0"
+  }
+}
